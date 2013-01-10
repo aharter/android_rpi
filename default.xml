@@ -374,7 +374,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
-  <project path="device/rpi/rapsberrypi" name="Mathijsz/device_rpi" revision="master" />
+  <project path="device/rpi/rapsberrypi" name="aharter/android_device_raspberrpi" revision="master" />
   <project path="device/rpi/rapsberrypi/lib" name="Razdroid/userland" revision="master" />
   <project path="kernel/rpi/rapsberrypi" name="Mathijsz/razdroid-kernel" revision="master" />
 
